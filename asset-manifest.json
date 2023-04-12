@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Suppiluliumas/carapptest/static/css/main.0a4d082d.css",
-    "main.js": "/Suppiluliumas/carapptest/static/js/main.32a34057.js",
-    "static/js/787.22ea9dd3.chunk.js": "/Suppiluliumas/carapptest/static/js/787.22ea9dd3.chunk.js",
-    "index.html": "/Suppiluliumas/carapptest/index.html",
-    "main.0a4d082d.css.map": "/Suppiluliumas/carapptest/static/css/main.0a4d082d.css.map",
-    "main.32a34057.js.map": "/Suppiluliumas/carapptest/static/js/main.32a34057.js.map",
-    "787.22ea9dd3.chunk.js.map": "/Suppiluliumas/carapptest/static/js/787.22ea9dd3.chunk.js.map"
+    "main.css": "/carapptest/static/css/main.0a4d082d.css",
+    "main.js": "/carapptest/static/js/main.768247a6.js",
+    "static/js/787.22ea9dd3.chunk.js": "/carapptest/static/js/787.22ea9dd3.chunk.js",
+    "index.html": "/carapptest/index.html",
+    "main.0a4d082d.css.map": "/carapptest/static/css/main.0a4d082d.css.map",
+    "main.768247a6.js.map": "/carapptest/static/js/main.768247a6.js.map",
+    "787.22ea9dd3.chunk.js.map": "/carapptest/static/js/787.22ea9dd3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0a4d082d.css",
-    "static/js/main.32a34057.js"
+    "static/js/main.768247a6.js"
   ]
 }
